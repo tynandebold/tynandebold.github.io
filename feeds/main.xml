@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tynandebold.com/</id>
     <title>Tynan DeBold</title>
-    <updated>2021-02-07T12:17:10.715Z</updated>
+    <updated>2021-02-21T09:32:33.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tynan DeBold</name>
@@ -39,20 +39,6 @@ I'm covered</p>]]></content>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Defund]]></title>
-        <id>https://tynandebold.com/defund</id>
-        <link href="https://tynandebold.com/defund"/>
-        <updated>2020-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>
-
-<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.
-</p>
-]]></content>
-        <author>
-            <name>Tynan DeBold</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Moving air]]></title>
         <id>https://tynandebold.com/moving-air</id>
         <link href="https://tynandebold.com/moving-air"/>
@@ -67,6 +53,20 @@ respite from the suffocating, all-encompassing humidity that has been a faithful
 partner my entire stay. there’s a new sound and when i look up i see it’s
 raining. i don’t have an umbrella but i won’t need one. showers move through
 fast and frequent. the rain is refreshing. it’s cooler now, and i'm content.</p>
+]]></content>
+        <author>
+            <name>Tynan DeBold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defund]]></title>
+        <id>https://tynandebold.com/defund</id>
+        <link href="https://tynandebold.com/defund"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>
+
+<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.
+</p>
 ]]></content>
         <author>
             <name>Tynan DeBold</name>
