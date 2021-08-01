@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tynandebold.com/</id>
     <title>Tynan DeBold</title>
-    <updated>2021-04-24T15:18:33.254Z</updated>
+    <updated>2021-08-01T16:44:27.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tynan DeBold</name>
@@ -14,20 +14,6 @@
     <logo>https://tynandebold.com/assets/dev/favicon.ico</logo>
     <icon>https://tynandebold.com/assets/dev/favicon.ico</icon>
     <rights>© Tynan DeBold 2010-2020</rights>
-    <entry>
-        <title type="html"><![CDATA[Defund]]></title>
-        <id>https://tynandebold.com/defund</id>
-        <link href="https://tynandebold.com/defund"/>
-        <updated>2020-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>
-
-<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.
-</p>
-]]></content>
-        <author>
-            <name>Tynan DeBold</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Covered]]></title>
         <id>https://tynandebold.com/covered</id>
@@ -48,6 +34,40 @@ I’m greeted by black<p>
 <p>I add a layer each night</br>
 With greater weight</br>
 I'm covered</p>]]></content>
+        <author>
+            <name>Tynan DeBold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving air]]></title>
+        <id>https://tynandebold.com/moving-air</id>
+        <link href="https://tynandebold.com/moving-air"/>
+        <updated>2014-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>one block east and one block south there is a park. there is no grass. the
+surfaces are smooth. one soccer field and three basketball courts, submerged in
+the middle of a sea of tall buildings. i'm sitting on the concrete stands.
+fourth section down, sixth row up, seventh seat in. three fans affixed to
+trestles above are blowing down. in jeans, boots, and a short-sleeved button
+down, i'm comfortable, even cool. the moving air is refreshing, a temporary
+respite from the suffocating, all-encompassing humidity that has been a faithful
+partner my entire stay. there’s a new sound and when i look up i see it’s
+raining. i don’t have an umbrella but i won’t need one. showers move through
+fast and frequent. the rain is refreshing. it’s cooler now, and i'm content.</p>
+]]></content>
+        <author>
+            <name>Tynan DeBold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defund]]></title>
+        <id>https://tynandebold.com/defund</id>
+        <link href="https://tynandebold.com/defund"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>
+
+<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.
+</p>
+]]></content>
         <author>
             <name>Tynan DeBold</name>
         </author>
@@ -91,26 +111,6 @@ another well until we overran our own love and lives</p>
 you standing there ready and waiting for hungry customers</p>
 
 <p>never expecting to find one willing to give so much love<p>
-]]></content>
-        <author>
-            <name>Tynan DeBold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving air]]></title>
-        <id>https://tynandebold.com/moving-air</id>
-        <link href="https://tynandebold.com/moving-air"/>
-        <updated>2014-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>one block east and one block south there is a park. there is no grass. the
-surfaces are smooth. one soccer field and three basketball courts, submerged in
-the middle of a sea of tall buildings. i'm sitting on the concrete stands.
-fourth section down, sixth row up, seventh seat in. three fans affixed to
-trestles above are blowing down. in jeans, boots, and a short-sleeved button
-down, i'm comfortable, even cool. the moving air is refreshing, a temporary
-respite from the suffocating, all-encompassing humidity that has been a faithful
-partner my entire stay. there’s a new sound and when i look up i see it’s
-raining. i don’t have an umbrella but i won’t need one. showers move through
-fast and frequent. the rain is refreshing. it’s cooler now, and i'm content.</p>
 ]]></content>
         <author>
             <name>Tynan DeBold</name>
