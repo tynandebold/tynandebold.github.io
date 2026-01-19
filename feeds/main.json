@@ -21,16 +21,6 @@
             }
         },
         {
-            "id": "https://tynandebold.com/defund",
-            "content_html": "<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>\n\n<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.\n</p>\n",
-            "url": "https://tynandebold.com/defund",
-            "title": "Defund",
-            "date_modified": "2020-06-01T00:00:00.000Z",
-            "author": {
-                "name": "Tynan DeBold"
-            }
-        },
-        {
             "id": "https://tynandebold.com/moving-air",
             "content_html": "<p>one block east and one block south there is a park. there is no grass. the\nsurfaces are smooth. one soccer field and three basketball courts, submerged in\nthe middle of a sea of tall buildings. i'm sitting on the concrete stands.\nfourth section down, sixth row up, seventh seat in. three fans affixed to\ntrestles above are blowing down. in jeans, boots, and a short-sleeved button\ndown, i'm comfortable, even cool. the moving air is refreshing, a temporary\nrespite from the suffocating, all-encompassing humidity that has been a faithful\npartner my entire stay. there’s a new sound and when i look up i see it’s\nraining. i don’t have an umbrella but i won’t need one. showers move through\nfast and frequent. the rain is refreshing. it’s cooler now, and i'm content.</p>\n",
             "url": "https://tynandebold.com/moving-air",
@@ -46,6 +36,16 @@
             "url": "https://tynandebold.com/overran",
             "title": "Overran",
             "date_modified": "2016-08-01T00:00:00.000Z",
+            "author": {
+                "name": "Tynan DeBold"
+            }
+        },
+        {
+            "id": "https://tynandebold.com/defund",
+            "content_html": "<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>\n\n<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.\n</p>\n",
+            "url": "https://tynandebold.com/defund",
+            "title": "Defund",
+            "date_modified": "2020-06-01T00:00:00.000Z",
             "author": {
                 "name": "Tynan DeBold"
             }

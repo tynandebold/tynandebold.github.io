@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tynandebold.com/</id>
     <title>Tynan DeBold</title>
-    <updated>2026-01-19T02:26:22.385Z</updated>
+    <updated>2026-01-19T02:32:44.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tynan DeBold</name>
@@ -34,20 +34,6 @@ I’m greeted by black<p>
 <p>I add a layer each night</br>
 With greater weight</br>
 I'm covered</p>]]></content>
-        <author>
-            <name>Tynan DeBold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defund]]></title>
-        <id>https://tynandebold.com/defund</id>
-        <link href="https://tynandebold.com/defund"/>
-        <updated>2020-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>
-
-<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.
-</p>
-]]></content>
         <author>
             <name>Tynan DeBold</name>
         </author>
@@ -111,6 +97,20 @@ another well until we overran our own love and lives</p>
 you standing there ready and waiting for hungry customers</p>
 
 <p>never expecting to find one willing to give so much love<p>
+]]></content>
+        <author>
+            <name>Tynan DeBold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defund]]></title>
+        <id>https://tynandebold.com/defund</id>
+        <link href="https://tynandebold.com/defund"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Defund !== disband, meaning defund the police doesn't equal disband the police.</p>
+
+<p>Defund seems to be a very poor verb choice here. Why not use reform, rethink, redo, revamp, or rectify? Perhaps the word <i>improve</i> could be used more during these discussions, too.
+</p>
 ]]></content>
         <author>
             <name>Tynan DeBold</name>
